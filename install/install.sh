@@ -43,7 +43,7 @@ localectl set-locale LANGUAGE=en_US.UTF-8
 
 yum -y fish
 yum -y install kubectl
-yum -y install docker-ce docker-ce-cli containerd.io
+yum -y install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 dnf -y copr enable luminoso/k9s
 dnf -y copr enable atim/zoxide
