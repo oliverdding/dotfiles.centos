@@ -1,0 +1,9 @@
+[submodule ".ssh"]
+	path = .ssh
+	url = git@github.com:oliverdding/.ssh.git
+[submodule ".config/git"]
+	path = .config/git
+	url = git@github.com:oliverdding/.config-git.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:oliverdding/.config-nvim.git
