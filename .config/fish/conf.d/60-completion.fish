@@ -4,4 +4,5 @@ if status is-interactive
     type -q helm && helm completion fish | source
     type -q rustup && rustup completions fish | source
     type -q krew && krew completion fish | source
+    type -q starship && starship completions fish | source
 end
