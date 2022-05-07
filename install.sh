@@ -63,6 +63,7 @@ link ".config/starship.toml"
 link ".gnupg/dirmngr.conf"
 link ".gnupg/gpg-agent.conf"
 link ".gnupg/gpg.conf"
+link ".gnupg/sshcontrol"
 
 link ".ssh/config.d"
 link ".ssh/config"
